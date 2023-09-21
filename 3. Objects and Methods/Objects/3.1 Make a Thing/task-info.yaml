@@ -12,6 +12,15 @@ files:
     visible: true
     encrypted_text: HRXImEgiHDgGKpUTsG5aRlIaILNNMhcw//z072bDxJLQhmjcEu1vH8BWhDQrojFI
     learner_created: false
-status: Unchecked
+  - name: src/ThingBuilder.java
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 21 Sep 2023 09:52:20 UTC"
 record: -1
+selected_options:
+  - 0
 local_check: true
